@@ -1,0 +1,3 @@
+- https://owncloud.com/products/mobileapps/
+- https://syncthing.net/
+- http://thebookofshaders.com/04/
