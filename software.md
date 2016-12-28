@@ -1,3 +1,5 @@
+- upgrade ttrss for phpmailer
 - https://owncloud.com/products/mobileapps/
 - https://syncthing.net/
 - http://thebookofshaders.com/04/
+- U2F
