@@ -1,6 +1,8 @@
 - https://owncloud.com/products/mobileapps/
 - https://syncthing.net/
-- http://thebookofshaders.com/12/
+- http://thebookofshaders.com/13/
   - http://thebookofshaders.com/edit.php#11/wood.frag
+  - http://www.iquilezles.org/www/articles/warp/warp.htm
+  - http://thebookofshaders.com/edit.php?log=170121225920
 - http://tobyschachman.com/Shadershop/
 - U2F
