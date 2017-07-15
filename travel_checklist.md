@@ -2,7 +2,7 @@
 | -- | -- | -- | -- | -- | -- |
 | ☐ razor  |  ☐ deoderant | ☐ toothbrush | ☐ brush | ☐ hair clips | ☐ hair bands |
 | ☐ makeup | ☐ face soap | ☐ bar soap | ☐ shampoo |  ☐ sunscreen(s) | ☐ pills  |
-| ☐ bug spray | ☐ lotion | ☐ aloe | ☐ face wipes  | | |
+| ☐ bug spray | ☐ lotion | ☐ aloe | ☐ face wipes  |☐ |☐ |
 
 |Gear||||||
 | -- | -- | -- | -- | -- | -- |
@@ -20,12 +20,18 @@
 | -- | -- | -- | -- | -- |
 | ☐ hats (cap/sun visor) | ☐ hiking shoes | ☐ hiking socks | ☐ flip flops | ☐ shorts |
 | ☐ swim suites | ☐ pjs | ☐ t-shirts | ☐ dresses | ☐ wraps |
-| ☐ windbreakers | | | |  |
-|  | | | |  |
-|  | | | |  |
+| ☐ windbreakers |☐ |☐ |☐ |☐  |
+| ☐ |☐ |☐ |☐ |☐  |
+| ☐ |☐ |☐ |☐ |☐  |
 
 |Other|||||
 | -- | -- | -- | -- | -- |
 | ☐ cash | ☐ soap nuts | ☐ laundry detergent | ☐ parking coupon | ☐ passports |
-| ☐ boarding pass | ☐ directions |☐ snacks | | |
+| ☐ boarding pass | ☐ directions |☐ snacks |☐ |☐ |
+| ☐ |☐ |☐ |☐ |☐  |
+| ☐ |☐ |☐ |☐ |☐  |
+| ☐ |☐ |☐ |☐ |☐  |
+| ☐ |☐ |☐ |☐ |☐  |
+| ☐ |☐ |☐ |☐ |☐  |
+| ☐ |☐ |☐ |☐ |☐  |
 
