@@ -1,7 +1,7 @@
 * Toiletries
 
-||||||
-| -- | -- | -- | -- | -- |
+|||||||
+| -- | -- | -- | -- | -- | -- |
 | ☐ razor  |  ☐ deoderant | ☐ toothbrush | ☐ brush | ☐ hair clips | ☐ hair bands |
 | ☐ makeup | ☐ face soap | ☐ bar soap | ☐ shampoo |  ☐ sunscreen(s) | ☐ pills  |
 | ☐ bug spray | ☐ lotion | ☐ aloe | ☐ face wipes  | | |
