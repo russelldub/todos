@@ -24,9 +24,9 @@
 | ☐ |☐ |☐ |☐ |☐  |
 | ☐ |☐ |☐ |☐ |☐  |
 
-- Page 2
+- Page 1
 
-|Other|||||
+|Other| | | | |
 | -- | -- | -- | -- | -- |
 | ☐ cash | ☐ soap nuts | ☐ laundry detergent | ☐ parking coupon | ☐ passports |
 | ☐ boarding pass | ☐ directions | ☐ snacks | ☐ | ☐  |
@@ -44,3 +44,5 @@
 | ☐ |☐ |☐ |☐ |☐  |
 | ☐ |☐ |☐ |☐ |☐  |
 | ☐ |☐ |☐ |☐ |☐  |
+
+- Page 2
