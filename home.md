@@ -1,6 +1,5 @@
 * Electrician
-  - Bedroom outlet
-  - Car charging outlet(s)
+  - Car charging outlet(?)
   - Fix antenna/cable runs?
   - Check/fix outdoor electrical
 
@@ -42,4 +41,11 @@
   - Other wall to bed 24 inches
   - Height of bed 2 ft
 
+
+* Solar (?)
+  - Eric from Solar Company
+  - Solar Company went out of business
+  - 510-566-4201
+  - Synergy Power
+  - https://synergypower.com/#synergy-power
 

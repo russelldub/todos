@@ -7,4 +7,6 @@
   - Transfer Case fluid
   - Moisture in brake lines
 
+- Bentley Chan, P.E.  bentley.chan@henrico.us 804.501.4274
+  - http://proceedings.esri.com/library/userconf/proc17/papers/252_498.pdf
 

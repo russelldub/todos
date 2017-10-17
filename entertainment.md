@@ -1,0 +1,8 @@
+- TV Shows:
+  - True Detective
+  - Fargo
+  - House of Cards
+  - The Night Of
+  - Mr. Robot
+  - Black Mirror
+  - Rick & Morty Season 3
